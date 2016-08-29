@@ -19,7 +19,7 @@ rawsocketmod = Extension( "pydhcplib._rawsocket",
                         )
 
 setup(name='pydhcplib',
-      version      = "0.6.2",
+      version      = "0.6.2p1",
       license      = "GPL v3",
       description  = "Dhcp client/server library",
       author       = "Mathieu Ignacio, Diego Souza",
